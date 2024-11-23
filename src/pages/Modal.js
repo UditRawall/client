@@ -100,7 +100,7 @@ const Modal = ({ setShowModal }) => {
           </select>
 
           <InputType
-            labelText="Enter the Quantity:"
+            labelText="Enter the Quantity: (ml)"
             labelFor="quantity"
             inputType="number"
             placeholder="Quantity"

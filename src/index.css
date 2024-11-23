@@ -345,6 +345,11 @@ a {
   height: auto;
   width: 50%;
   position: relative;
+  color: black !important;
+}
+
+.modal label,p,select,option{
+  color: black !important;
 }
 
 @media (width<=800px) {
